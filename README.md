@@ -4,4 +4,4 @@
 
 Para ejecutar el sustema, debes poner:
 
-```npm install react``
+```npm install react```
